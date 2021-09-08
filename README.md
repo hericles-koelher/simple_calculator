@@ -1,6 +1,6 @@
 # simple_calculator
 
-A Flutter simple calculator app made for study purposes.
+A simple calculator app made for study Flutter and Provider.
 
 ## Getting Started
 
