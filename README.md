@@ -1,6 +1,6 @@
 # simple_calculator
 
-![App-Screen](./screen.png "Screenshot")
+![App-Screen](screen.png "Screenshot")
 
 A simple calculator app made for study Flutter and Provider.
 
