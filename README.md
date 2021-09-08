@@ -1,5 +1,7 @@
 # simple_calculator
 
+![App-Screen](screen.png)
+
 A simple calculator app made for study Flutter and Provider.
 
 ## Getting Started
