@@ -94,9 +94,11 @@ The following tools were used in the construction of the project:
 
 ## Author
 
+<div>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34146602?v=4" width="100px;" alt="Hericles Koelher"/>
  <br />
  <sub><b>Hericles Koelher</b></sub>
+</div>
 
 [![Twitter Badge](https://img.shields.io/badge/-@HericlesKoelher-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HericlesKoelher)](https://twitter.com/HericlesKoelher) [![Linkedin Badge](https://img.shields.io/badge/-Hericles_Koelher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209) 
 
