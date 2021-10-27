@@ -15,7 +15,7 @@
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://twitter.com/HericlesKoelher">
     <img alt="made by Hericles Koelher" src="https://img.shields.io/badge/made%20by-Hericles_Koelher-%237519C1">
   </a>
 
