@@ -47,7 +47,7 @@
 
 ---
 
-### Mobile
+### App Screen
 
 <p align="center">
   <img alt="Simple Calculator" title="#SimpleCalculator" src="./images/calculator_screen.png" width="200px">
@@ -61,7 +61,7 @@ This app works much like any built-in calculator app.
 
 ### Pre-requisites
 
-Before you begin, you will need to have [Flutter](https://flutter.dev) and [Android Studio](https://developer.android.com/studio?hl=pt) installed in your machine. In addition use your smartphone or an emulator to run the app.
+Before you begin, you will need to have [Flutter](https://flutter.dev) and [Android Studio](https://developer.android.com/studio?hl=pt) installed and configured in your machine. In addition use your smartphone or an emulator to run the app.
 
 #### Running the application
 
@@ -78,11 +78,10 @@ $ flutter run
 The following tools were used in the construction of the project:
 
 
-#### **Mobile**  ([Flutter](https://flutter.dev))
+#### **Mobile**
 
--   **[Provider](https://pub.dev/packages/provider)**
--   **[Math Expressions](https://pub.dev/packages/math_expressions)**
--   **[Auto Size Text](https://pub.dev/packages/auto_size_text)**
+-   **[Dart](https://dart.dev)**
+-   **[Flutter](https://flutter.dev)**
 
 > See the file  [pubspec.yaml](https://github.com/hericles-koelher/simple_calculator/blob/master/README.md)
 
