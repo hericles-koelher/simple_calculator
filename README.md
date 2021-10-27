@@ -40,10 +40,10 @@
 
 🧮 Simple Calculator - is just an little project made with the purpose of study mobile development with:
 
+- **[Dart](https://dart.dev/)**
 - **[Flutter](https://flutter.dev/)**
-- **[State Management](https://en.wikipedia.org/wiki/State_management)**
-- **[Change Notifier](https://api.flutter.dev/flutter/foundation/ChangeNotifier-class.html)**
 - **[Provider](https://pub.dev/packages/provider)**
+- **[Change Notifier](https://api.flutter.dev/flutter/foundation/ChangeNotifier-class.html)**
 
 ---
 
