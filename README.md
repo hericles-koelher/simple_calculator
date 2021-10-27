@@ -83,8 +83,6 @@ The following tools were used in the construction of the project:
 -   **[Dart](https://dart.dev)**
 -   **[Flutter](https://flutter.dev)**
 
-> See the file  [pubspec.yaml](https://github.com/hericles-koelher/simple_calculator/blob/master/README.md)
-
 #### **Utilities**
 
 -   Editor:  **[Android Studio](https://developer.android.com/studio?hl=pt)**  → Plugin:  **[Flutter](https://plugins.jetbrains.com/plugin/9212-flutter)**, **[Dart](https://plugins.jetbrains.com/plugin/6351-dart)**
@@ -107,4 +105,4 @@ The following tools were used in the construction of the project:
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Hericles Koelher 👋🏽 [Get in Touch!](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
+Made with love by Hericles Koelher
